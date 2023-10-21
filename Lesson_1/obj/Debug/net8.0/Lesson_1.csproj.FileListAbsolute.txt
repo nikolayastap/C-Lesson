@@ -1,0 +1,14 @@
+C:\Users\astas\Desktop\Languag C\C#Lesson\Lesson_1\bin\Debug\net8.0\Lesson_1.exe
+C:\Users\astas\Desktop\Languag C\C#Lesson\Lesson_1\bin\Debug\net8.0\Lesson_1.deps.json
+C:\Users\astas\Desktop\Languag C\C#Lesson\Lesson_1\bin\Debug\net8.0\Lesson_1.runtimeconfig.json
+C:\Users\astas\Desktop\Languag C\C#Lesson\Lesson_1\bin\Debug\net8.0\Lesson_1.dll
+C:\Users\astas\Desktop\Languag C\C#Lesson\Lesson_1\bin\Debug\net8.0\Lesson_1.pdb
+C:\Users\astas\Desktop\Languag C\C#Lesson\Lesson_1\obj\Debug\net8.0\Lesson_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astas\Desktop\Languag C\C#Lesson\Lesson_1\obj\Debug\net8.0\Lesson_1.AssemblyInfoInputs.cache
+C:\Users\astas\Desktop\Languag C\C#Lesson\Lesson_1\obj\Debug\net8.0\Lesson_1.AssemblyInfo.cs
+C:\Users\astas\Desktop\Languag C\C#Lesson\Lesson_1\obj\Debug\net8.0\Lesson_1.csproj.CoreCompileInputs.cache
+C:\Users\astas\Desktop\Languag C\C#Lesson\Lesson_1\obj\Debug\net8.0\Lesson_1.dll
+C:\Users\astas\Desktop\Languag C\C#Lesson\Lesson_1\obj\Debug\net8.0\refint\Lesson_1.dll
+C:\Users\astas\Desktop\Languag C\C#Lesson\Lesson_1\obj\Debug\net8.0\Lesson_1.pdb
+C:\Users\astas\Desktop\Languag C\C#Lesson\Lesson_1\obj\Debug\net8.0\Lesson_1.genruntimeconfig.cache
+C:\Users\astas\Desktop\Languag C\C#Lesson\Lesson_1\obj\Debug\net8.0\ref\Lesson_1.dll
